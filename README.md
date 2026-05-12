@@ -136,6 +136,9 @@ Ranked among **200+ teams** in the Cisco Forecasting Challenge.
 
 ---
 ---
+# 📷 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
 
 # 📊 Power BI Dashboard
 
