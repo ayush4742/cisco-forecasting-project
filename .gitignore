@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Generated reports
+ai_report.txt
+sales_report.pdf
+
+# Jupyter notebook cache
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
