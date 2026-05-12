@@ -135,6 +135,65 @@ output/submission.csv
 Ranked among **200+ teams** in the Cisco Forecasting Challenge.
 
 ---
+---
+
+# 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to visualize forecasted sales and business insights.
+
+### Dashboard Features
+
+- KPI cards for total forecasted sales
+- Product-wise sales comparison
+- Donut chart for sales distribution
+- Dynamic slicers for filtering
+- Premium dark-themed UI
+
+Dashboard file:
+
+```bash
+cisco_dashboard.pbix
+```
+
+---
+
+# 🤖 GenAI-Powered Dynamic Reporting
+
+The project integrates Groq LLM to automatically generate AI-powered business reports from forecast data.
+
+### Workflow
+
+```text
+Forecast CSV
+    ↓
+Groq LLM Analysis
+    ↓
+AI Insights & Recommendations
+    ↓
+Automated PDF Report
+```
+
+### AI Features
+
+- Key business insights
+- Product trend analysis
+- Strategic recommendations
+- Automated report generation
+
+---
+
+# 📄 Automated PDF Report Generation
+
+Using Python + FPDF2, the system automatically converts AI-generated insights into professional PDF reports.
+
+Generated files:
+
+```bash
+ai_report.txt
+sales_report.pdf
+```
+
+---
 
 ## 📬 Conclusion
 
@@ -145,3 +204,8 @@ This project demonstrates that **combining ML + business understanding** leads t
 ---
 
 ⭐ If you found this project useful, consider starring the repository!
+
+
+Team :
+Umme Salma : https://github.com/Ignis-Core
+Ayush kumar : https://github.com/ayush4742
